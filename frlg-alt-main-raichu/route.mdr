@@ -415,7 +415,7 @@ Ether Megakick if you haven't yet
     TS x3
     ::damage[Ekans' Bite]{source="Pika" offensive=false movePower=60 level=18 opponentLevel=15 opponentStat=17 special=true stab=false}
   :::::
-  :::::pokemon[Pika]
+  :::::pokemon[Zubat]
     TS (+QA)
     ::damage[Chance to OHKO with TS]{source="Pika" offensive=true movePower=40 level=19 opponentStat=17 healthThreshold=37 special=true stab=true effectiveness=2}
   :::::
