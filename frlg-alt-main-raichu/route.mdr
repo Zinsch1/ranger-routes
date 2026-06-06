@@ -331,7 +331,7 @@ Try to keep Squirtle alive, need it on R25 later
     :::if{source="Pika" condition="spa=(# / 13- / x)"}
      :info[TS x3]
     :::
-    :::if{source="Pika" condition="spa=(# / 14+ / #)"}
+    :::if{source="Pika" condition="spa=(x / 14+ / #)"}
      :info[TS x2 + QA]
     :::
     ::damage[Pidgeotto's Quick Attack]{source="Pika" offensive=false movePower=40 level=15 opponentLevel=17 opponentStat=26 special=false stab=true}
