@@ -1374,7 +1374,7 @@ Rare Candy twice to L49
 :::::::trainer[Cooltrainer Warren]
   :::::pokemon[Marowak]
     Return x2
-    ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=49 statModifier=1.1 evolution=1 opponentLevel=37 opponentStat=68 special=false stab=true effectiveness=2}
+    ::damage[Marowak's Bonemerang (per hit)]{source="Pika" offensive=false movePower=50 level=49 statModifier=1.1 evolution=1 opponentLevel=37 opponentStat=61 special=false stab=true effectiveness=2}
   :::::
   :::::pokemon[Marowak]
     Sac Squirtle to safely switch in Lapras, then Surf, then potion Raichu (Lapras faints), Return  
